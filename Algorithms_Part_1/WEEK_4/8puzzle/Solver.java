@@ -4,7 +4,7 @@ import edu.princeton.cs.algs4.Stack;
 import edu.princeton.cs.algs4.StdOut;
 
 /**
- * @author Dima Pasieka
+ * @author Himani
  */
 public class Solver {
 

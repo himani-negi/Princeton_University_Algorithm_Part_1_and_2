@@ -3,9 +3,6 @@ import edu.princeton.cs.algs4.RectHV;
 import edu.princeton.cs.algs4.Point2D;
 import edu.princeton.cs.algs4.StdDraw;
 
-/**
- * @author Dima Pasieka
- */
 public class KdTree
 {
     // Vertical division

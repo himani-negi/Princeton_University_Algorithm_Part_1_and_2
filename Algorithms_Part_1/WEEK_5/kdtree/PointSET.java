@@ -3,9 +3,6 @@ import edu.princeton.cs.algs4.Queue;
 import edu.princeton.cs.algs4.RectHV;
 import edu.princeton.cs.algs4.Point2D;
 
-/**
- * @author Dima Pasieka
- */
 public class PointSET
 {
     // Set of points in BST

@@ -2,7 +2,7 @@ import java.util.Stack;
 import java.util.Arrays;
 
 /**
- * @author Dima Pasieka
+ * @author Himani
  */
 public class Board
 {
