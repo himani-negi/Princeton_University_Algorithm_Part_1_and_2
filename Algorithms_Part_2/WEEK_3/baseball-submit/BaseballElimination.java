@@ -5,13 +5,6 @@ import edu.princeton.cs.algs4.In;
 import edu.princeton.cs.algs4.SET;
 import edu.princeton.cs.algs4.ST;
 
-/**
- * Author:  tomasizo
- * Contact: tomas@izo.sk
- * Date:    08/02/2017
- * Description :
- */
-
 public class BaseballElimination {
 
     private ST<String, SET<String>> cache; // cache: teams and elimination certificates
